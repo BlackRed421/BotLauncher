@@ -1,6 +1,10 @@
 PoketLauncher v4.7
+
 ATENÇÃO USANDO O LAUNCHER E O EDITOR DE MACROS SEUS MACROS SÃO COMPARTILHADOS.
 EM UPDATES FUTUROS CORRIJO.
+
+
+
 📖 Sobre o Projeto
 O PoketLauncher é uma interface gráfica moderna e intuitiva, desenvolvida em Python com a biblioteca CustomTkinter, para gerenciar e lançar bots do OpenKore. A aplicação foi criada para simplificar o processo de configuração, execução e gerenciamento de múltiplos bots e suas macros, tudo a partir de um único local.
 
